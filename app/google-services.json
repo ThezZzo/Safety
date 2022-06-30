@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175278385032",
+    "project_id": "emergancyapp",
+    "storage_bucket": "emergancyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175278385032:android:280e01764d0102cb827c3d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175278385032-gs0ltopipga7d8g8e3oc3v2ab0fgblnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "45d020a0fb296f38a074921422d5a535a832b3de"
+          }
+        },
+        {
+          "client_id": "175278385032-9bkje7jm3hp13i090orq01hnoi368gkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNcREJGnxQ_aliLn94n9NhXZru7xHpEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175278385032-9bkje7jm3hp13i090orq01hnoi368gkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

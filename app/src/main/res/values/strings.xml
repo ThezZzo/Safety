@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="header_name" translatable="false">Детская безопасность</string>
+    <string name="footer_name" translatable="false">Copyright © 2022 АНО Диалог Регионы (ЦУР Республики Хакасия). All rights reserved.</string>
+</resources>
